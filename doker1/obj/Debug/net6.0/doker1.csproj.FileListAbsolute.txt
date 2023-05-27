@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\home\son\doker1\bin\Debug\net6.0\doker1.exe
+C:\Users\джайн\Desktop\home\son\doker1\bin\Debug\net6.0\doker1.deps.json
+C:\Users\джайн\Desktop\home\son\doker1\bin\Debug\net6.0\doker1.runtimeconfig.json
+C:\Users\джайн\Desktop\home\son\doker1\bin\Debug\net6.0\doker1.dll
+C:\Users\джайн\Desktop\home\son\doker1\bin\Debug\net6.0\doker1.pdb
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.AssemblyInfo.cs
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.dll
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\refint\doker1.dll
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.pdb
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\doker1.genruntimeconfig.cache
+C:\Users\джайн\Desktop\home\son\doker1\obj\Debug\net6.0\ref\doker1.dll
